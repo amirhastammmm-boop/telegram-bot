@@ -1,3 +1,5 @@
-python-telegram-bot
+aiogram
 aiohttp
 aiosqlite
+python-dotenv
+requests
